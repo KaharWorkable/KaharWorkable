@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently doing my internship at **Petroliam Nasional Berhad (Petronas)**.
 - 💬 Feel free to ask me about anything and i will try to help.
-- 😄 Currently pursuing in Web Development.
+- 😄 Currently learning about React and Django.
 - 🖥️ Feel free to educate me if you find any unnecessary code in my repo.
 
 <!-- <h1 align="center">My Gist</h1>
