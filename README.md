@@ -9,13 +9,6 @@
 - 😄 Currently learning about React and Django.
 - 🖥️ Feel free to educate me if you find any unnecessary code in my repo.
 
-<!-- <h1 align="center">My Gist</h1>
-
-### See few code that I posted on my [Gist](https://gist.github.com/MrShameer) -->
-
-<!-- <h1 align="center">Organization</h1>
-
-### [Our Organization](https://github.com/lepak-xyz) -->
 
 
 <h1 align="center">Github Stats</h1>
