@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently doing my internship at **Petroliam Nasional Berhad (Petronas)**.
+- 🔭 I’m actively looking for Software Developer Role.
 - 💬 Feel free to ask me about anything and i will try to help.
 - 😄 Currently learning about React and Django.
 - 🖥️ Feel free to educate me if you find any unnecessary code in my repo.
